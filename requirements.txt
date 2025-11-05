@@ -1,0 +1,19 @@
+# Optional/unused dependencies
+# sentence-transformers (unused)
+# scikit-learn (unused)
+# psutil (unused)
+# tk (unused; Tkinter ships with Python)
+
+# Core runtime requirements
+humanize
+watchdog
+Pillow
+PyMuPDF
+mutagen
+openpyxl
+python-pptx
+python-docx
+send2trash
+cryptography
+nvidia-ml-py3
+PyInstaller
