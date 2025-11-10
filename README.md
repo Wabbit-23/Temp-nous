@@ -3,7 +3,7 @@ You will need to install ollama with the mistral model
 
 # installing the ai model and its manager
  pip install ollama |or| winget install ollama.ollama 
-# Restart computer after conferming install
+# Restart computer after confirming install
  ollama pull mistral
 
 # installing required libraries 
